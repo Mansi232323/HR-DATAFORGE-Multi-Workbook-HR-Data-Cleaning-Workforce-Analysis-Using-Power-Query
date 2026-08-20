@@ -549,7 +549,7 @@ A new HR workbook can be placed into the source folder without manually rebuildi
 
 The Power Query workflow can then be refreshed to incorporate the new records.
 
-![Adding New Workbook](Images/25.png)
+![Adding New Workbook](Images/21.png)
 
 ---
 
