@@ -405,6 +405,8 @@ After completing the data cleaning and transformation process in Power Query, th
 
 The PivotTables summarize employee count, salary, bonus, attendance, total compensation, and workforce distribution across different HR dimensions.
 
+![load](Images/15.1.png)
+
 ---
 
 ## 🏢 1. Department-wise & Job Role-wise PivotTable
