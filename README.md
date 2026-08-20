@@ -310,7 +310,7 @@ Key metrics included:
 
 This helps understand how employees and compensation are distributed across different working shifts.
 
-![Shift-wise Analysis](Images/11.png)
+![Shift-wise Analysis](Images/12.png)
 
 ---
 
