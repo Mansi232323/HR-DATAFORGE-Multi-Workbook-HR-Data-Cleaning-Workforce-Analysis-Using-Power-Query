@@ -287,7 +287,7 @@ The analysis included:
 
 This provides a management-level view of employee distribution and compensation.
 
-![Manager-wise Analysis](Images/10.png)
+![Manager-wise Analysis](Images/9.png)
 
 ---
 
