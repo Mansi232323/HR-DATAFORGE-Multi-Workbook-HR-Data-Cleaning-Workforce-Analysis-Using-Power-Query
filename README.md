@@ -356,7 +356,7 @@ The analysis included:
 * Total Compensation
 * Attendance
 
-![Experience Analysis](Images/13.png)
+![Experience Analysis](Images/7.png)
 
 ---
 
@@ -381,7 +381,7 @@ State-level information was also included.
 
 Where location information was not available, the records were consolidated under a standardized **Not Available** category while preserving the available State information.
 
-![Location and State Analysis](Images/14.png)
+![Location and State Analysis](Images/8.png)
 
 ---
 
