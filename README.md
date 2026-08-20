@@ -470,7 +470,7 @@ The Department PivotTable provides a summarized view of the workforce by departm
 
 This allows departments to be compared using standardized workforce metrics.
 
-![Department PivotTable](Images/20.png)
+![Department PivotTable](Images/19.png) ![Department PivotTable](Images/19.1.png) ![Department PivotTable](Images/19.2.png)
 
 ---
 
