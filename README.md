@@ -405,7 +405,7 @@ The PivotTables provided a structured view of workforce metrics without modifyin
 
 The analysis covered multiple HR dimensions.
 
-![PivotTable Analysis](Images/16.png)
+![PivotTable Analysis](Images/15.1.png)
 
 ---
 
