@@ -534,41 +534,6 @@ This provides a hierarchical geographical view of the workforce.
 
 ---
 
-# 📊 23. Complete HR Analysis Dashboard Structure
-
-The completed workbook contains multiple analytical sections covering:
-
-* Department
-* Job Role
-* Manager
-* Experience
-* Shift
-* Performance
-* Location
-* State
-* Month
-
-These reports provide different perspectives of the same cleaned master dataset.
-
-![HR Analysis](Images/23.png)
-
----
-
-# 📅 24. Month-wise Workforce Analysis
-
-A Month-wise field was created from the source workbook names.
-
-This allows the HR dataset to be analyzed across monthly reporting periods.
-
-### Monthly periods:
-
-**January 2026 → February 2026 → March 2026 → April 2026 → May 2026**
-
-The month field makes it possible to compare workforce metrics across reporting periods.
-
-![Month-wise Analysis](Images/24.png)
-
----
 
 # 🔁 25. Adding a New Monthly Workbook
 
@@ -591,18 +556,6 @@ The query automatically processed the new source file using the existing transfo
 This demonstrates that the project is not only a one-time data-cleaning exercise but also a **repeatable and scalable ETL workflow**.
 
 ![Refresh Query](Images/22.png)
-
----
-
-# ✅ 27. Updated Clean Dataset
-
-After refreshing the query, the new records were incorporated into the consolidated master dataset.
-
-The same cleaning and transformation rules were automatically applied to the newly added data.
-
-This ensures consistency between historical and newly added monthly records.
-
-![Updated Clean Data](Images/27.png)
 
 ---
 
@@ -629,7 +582,7 @@ The completed reporting structure provides HR insights across:
 
 The project demonstrates how raw multi-workbook HR data can be converted into a structured, validated, and analysis-ready workforce reporting solution.
 
-![Final HR Reporting](Images/28.png)
+![Final HR Reporting](Images/3.png)
 
 ---
 
