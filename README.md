@@ -333,7 +333,7 @@ The analysis included:
 * Average Bonus
 * Attendance
 
-![Performance Analysis](Images/12.png)
+![Performance Analysis](Images/10.png)
 
 ---
 
