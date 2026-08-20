@@ -395,6 +395,8 @@ The loaded data was then used as the foundation for the PivotTable-based workfor
 
 ![Loaded Clean Dataset](Images/5.png)
 
+![Loaded Clean Dataset](Images/3.png)
+
 ---
 
 # 📋 16. PivotTable Analysis
