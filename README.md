@@ -421,7 +421,7 @@ A dedicated Manager PivotTable was created to analyze employee distribution and 
 
 This helps identify the workforce size and compensation associated with each manager.
 
-![Manager PivotTable](Images/17.png)
+![Manager PivotTable](Images/16.png)
 
 ---
 
