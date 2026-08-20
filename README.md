@@ -561,7 +561,7 @@ The query automatically processed the new source file using the existing transfo
 
 This demonstrates that the project is not only a one-time data-cleaning exercise but also a **repeatable and scalable ETL workflow**.
 
-![Refresh Query](Images/26.png)
+![Refresh Query](Images/22.png)
 
 ---
 
