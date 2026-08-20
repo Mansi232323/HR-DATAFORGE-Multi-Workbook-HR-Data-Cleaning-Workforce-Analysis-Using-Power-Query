@@ -273,6 +273,11 @@ The major workforce analysis areas were:
 Each section uses relevant HR metrics according to the business question being analyzed.
 
 ![Section-Wise Analysis](./Images/6.png)
+![Section-Wise Analysis](./Images/7.png)
+![Section-Wise Analysis](./Images/8.png)
+![Section-Wise Analysis](./Images/9.png)
+![Section-Wise Analysis](./Images/10.png)
+![Section-Wise Analysis](./Images/12.png)
 
 ---
 
@@ -294,7 +299,7 @@ Depending on the analysis, employee records were grouped and summarized using me
 
 This helped transform detailed employee-level records into useful analytical summaries.
 
-![Grouping and Summary](./Images/7.png)
+
 
 ---
 
@@ -310,7 +315,6 @@ This field provides a more complete view of employee compensation than looking a
 
 The Total Compensation field was subsequently used in multiple PivotTable analyses.
 
-![Total Compensation Transformation](./Images/8.png)
 
 ---
 
@@ -332,7 +336,7 @@ This makes it possible to compare workforce information across the five monthly 
 
 The Month field can be used for future time-based workforce analysis.
 
-![Month-Wise Data Preparation](./Images/9.png)
+
 
 ---
 
@@ -354,7 +358,7 @@ The data was checked for:
 
 This helped verify that the final master dataset was suitable for analysis.
 
-![Data Quality Validation](./Images/10.png)
+
 
 ---
 
@@ -372,9 +376,9 @@ Once all Power Query transformations were completed, the final cleaned dataset w
 
 This created a structured and analysis-ready Excel dataset that could be used as the source for PivotTables.
 
-The cleaned dataset contains approximately **50,750 employee records** after the consolidation and cleaning process.
+The cleaned dataset contains approximately **50,750 employee records** after consolidation and cleaning.
 
-![Clean Data Loaded into Excel](./Images/12.png)
+![Clean Data Loaded into Excel](./Images/5.1.png)
 
 ---
 
@@ -452,9 +456,11 @@ This analysis helps answer questions such as:
 
 🔹 What is the average bonus by department?
 
-![Department and Job Role PivotTable](./Images/15.png)
+![Department and Job Role PivotTable](./Images/19.png)
 
-![Department and Job Role Analysis](./Images/15.1.png)
+![Department and Job Role Analysis](./Images/19.2.png)
+
+![Section-Wise Analysis](./Images/19.1.png)
 
 ---
 
@@ -552,11 +558,7 @@ The report contains:
 
 This analysis helps compare compensation and attendance patterns across different performance levels.
 
-![Performance-Wise PivotTable](./Images/19.png)
-
-![Performance Analysis](./Images/19.1.png)
-
-![Performance PivotTable View](./Images/19.2.png)
+![Performance-Wise PivotTable](./Images/15.png)
 
 ---
 
@@ -613,7 +615,6 @@ The reporting structure covers:
 | ⭐ Performance            | Employee Count, Average Salary, Average Bonus, Attendance |
 | 📍 Location & State      | Employee Count, Total Compensation                        |
 
-![Consolidated Workforce Analysis](./Images/21.png)
 
 ---
 
@@ -627,7 +628,7 @@ The Power Query workflow can then detect the additional file during refresh.
 
 This reduces the need to manually rebuild the entire dataset whenever a new monthly workbook becomes available.
 
-![Adding New Monthly Workbook](./Images/22.png)
+![Adding New Monthly Workbook](./Images/21.png)
 
 ---
 
@@ -668,6 +669,8 @@ The existing transformation steps continue to be applied, including:
 🔹 Standardized categorical values
 
 This ensures that newly added data follows the same transformation rules as the original data.
+
+![Section-Wise Analysis](./Images/22.png)
 
 ---
 
@@ -822,14 +825,3 @@ Instead of manually cleaning and combining thousands of records every month, the
 
 The final cleaned dataset was then loaded into Excel and transformed into multiple workforce reports covering **Department & Job Role, Manager, Experience, Shift, Performance, and Location & State**.
 
-The project therefore combines:
-
-**📥 Data Import + 🧹 Data Cleaning + 🔄 Data Transformation + 🔍 Validation + 📊 Analysis + 📑 Reporting + 🔁 Refreshability**
-
-to create a structured and reusable **HR workforce analytics solution using Excel and Power Query**.
-
-```
-
-
-
-[1]: https://github.com/Mansi232323/HR-DATAFORGE-Multi-Workbook-HR-Data-Cleaning-Workforce-Analysis-Using-Power-Query/tree/main/Images "HR-DATAFORGE-Multi-Workbook-HR-Data-Cleaning-Workforce-Analysis-Using-Power-Query/Images at main · Mansi232323/HR-DATAFORGE-Multi-Workbook-HR-Data-Cleaning-Workforce-Analysis-Using-Power-Query · GitHub"
