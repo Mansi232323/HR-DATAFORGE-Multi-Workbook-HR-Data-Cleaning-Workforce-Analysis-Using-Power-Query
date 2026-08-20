@@ -389,14 +389,15 @@ Where location information was not available, the records were consolidated unde
 
 After completing the Power Query transformations, the final cleaned dataset was loaded into Excel.
 
-The master dataset contained **50,750 clean employee records**.
+The master dataset contained **50,750 clean employee records**. The loaded data served as the foundation for the PivotTable-based workforce analysis.
 
-The loaded data served as the foundation for the PivotTable-based workforce analysis.
+* Manager & Experience
 
-Manager & Experience
-Shift & Performance
-Department & Job Role
-Location & State
+* Shift & Performance
+
+* Department & Job Role
+
+* Location & State
 
 ![Loaded Clean Dataset](Images/5.png)
 
