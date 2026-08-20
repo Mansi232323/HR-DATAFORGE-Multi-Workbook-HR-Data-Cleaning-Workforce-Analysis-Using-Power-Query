@@ -431,6 +431,8 @@ The main reporting sections were:
 
 🔹 Location & State
 
+![Section-Wise Analysis](./Images/15.1.png)
+
 ---
 
 # 🏢 Department & Job Role PivotTable
