@@ -426,7 +426,7 @@ For example, the **IT department** can be expanded to view its individual job ro
 
 This provides a hierarchical view of the organization's workforce.
 
-![Department and Job Role PivotTable](Images/19.png) ![Department and Job Role PivotTable](Images/19.1.png) ![Department and Job Role PivotTable](Images/19.2.png)
+![Department and Job Role PivotTable](Images/19.png) ![Department and Job Role PivotTable](Images/19.2.png) ![Department and Job Role PivotTable](Images/19.1.png)
 
 ---
 
@@ -528,7 +528,7 @@ The PivotTable also handles **Not Available / Non-Applicable** location records 
 
 This provides a hierarchical geographical view of the workforce.
 
-![Location and State PivotTable](Images/20.png) ![Location and State PivotTable](Images/20.2.png) [Location and State PivotTable](Images/20.1.png)
+![Location and State PivotTable](Images/20.png) ![Location and State PivotTable](Images/20.2.png) ![Location and State PivotTable](Images/20.1.png)
 
 ---
 
