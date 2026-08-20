@@ -117,6 +117,14 @@ The five monthly workbooks were consolidated into a single employee-level datase
 
 ---
 
+# 🎥 Project Video
+
+A complete walkthrough of the **HR DATAFORGE** project, covering the Power Query data-import and cleaning process, data transformation, Excel loading, and final PivotTable-based workforce analysis.
+
+[![HR DATAFORGE Project Demo](./Images/1.png)](https://drive.google.com/file/d/1lP-fCzLUL0JYywtONfLeNF1LYKZXVzPo/view?usp=sharing)
+
+---
+
 # 📸 Project Task & Initial Workflow
 
 The project began by defining the HR data cleaning and workforce analysis requirements.
