@@ -1,4 +1,4 @@
-# 🏢 HR DATAFORGE — Multi-Workbook HR Data Cleaning & Workforce Analysis Using Power Query
+# 🏢 HR DATAFORGE Multi-Workbook HR Data Cleaning & Workforce Analysis Using Power Query
 
 > **An end-to-end HR data cleaning, transformation, consolidation, validation, and workforce analysis project using Microsoft Excel, Power Query, and PivotTables.**
 
