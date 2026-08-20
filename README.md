@@ -393,7 +393,7 @@ The master dataset contained **50,750 clean employee records**.
 
 The loaded data was then used as the foundation for the PivotTable-based workforce analysis.
 
-![Loaded Clean Dataset](Images/15.png)
+![Loaded Clean Dataset](Images/5.png)
 
 ---
 
