@@ -453,7 +453,7 @@ A Shift PivotTable was created to analyze employees according to their working s
 * Employee Count
 * Total Compensation
 
-![Shift PivotTable](Images/19.png)
+![Shift PivotTable](Images/18.png)
 
 ---
 
@@ -485,7 +485,7 @@ A Location PivotTable was created to summarize employee distribution and compens
 * Employee Count
 * Total Compensation
 
-![Location PivotTable](Images/21.png)
+![Location PivotTable](Images/20.png) ![Location PivotTable](Images/20.1.png) ![Location PivotTable](Images/20.2.png)
 
 ---
 
@@ -503,7 +503,7 @@ A Performance PivotTable was created to analyze employee performance categories.
 
 This provides a summarized view of workforce performance and related HR metrics.
 
-![Performance PivotTable](Images/17.png)
+![Performance PivotTable](Images/15.png)
 
 ---
 
