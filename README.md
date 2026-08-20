@@ -501,7 +501,7 @@ A Performance PivotTable was created to analyze employee performance categories.
 
 This provides a summarized view of workforce performance and related HR metrics.
 
-![Performance PivotTable](Images/22.png)
+![Performance PivotTable](Images/15.png)
 
 ---
 
