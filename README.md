@@ -245,7 +245,7 @@ The departments analyzed included areas such as:
 * Sales
 * Missing / Not Available
 
-![Department-wise Analysis](Images/8.png)
+![Department-wise Analysis](Images/6.png)
 
 ---
 
@@ -271,7 +271,7 @@ The analysis included roles such as:
 
 Job roles were grouped and standardized to make the analysis consistent.
 
-![Job Role Analysis](Images/9.png)
+![Job Role Analysis](Images/6.png)
 
 ---
 
