@@ -399,111 +399,136 @@ The loaded data was then used as the foundation for the PivotTable-based workfor
 
 ---
 
-# 📋 16. PivotTable Analysis
+# 📊 PivotTable Analysis
 
-Excel PivotTables were created to convert the cleaned employee-level data into summarized HR reports.
+After completing the data cleaning and transformation process in Power Query, the cleaned master dataset was loaded into Excel and used to create multiple **PivotTables** for workforce analysis.
 
-The PivotTables provided a structured view of workforce metrics without modifying the underlying master dataset.
-
-The analysis covered multiple HR dimensions.
-
-![PivotTable Analysis](Images/15.1.png)
+The PivotTables summarize employee count, salary, bonus, attendance, total compensation, and workforce distribution across different HR dimensions.
 
 ---
 
-# 👨‍💼 17. Manager PivotTable
+## 🏢 1. Department-wise & Job Role-wise PivotTable
 
-A dedicated Manager PivotTable was created to analyze employee distribution and compensation by manager.
+A combined **Department and Job Role PivotTable** was created to analyze the organizational structure and understand how employees are distributed across different departments and their respective job roles.
 
-### Metrics:
+The Department field was placed as the main category, with **Job Role** used as a detailed breakdown within each department.
 
-* Manager
-* Employee Count
-* Total Compensation
+### Key Analysis
 
-This helps identify the workforce size and compensation associated with each manager.
+- Department-wise Employee Count
+- Job Role-wise Employee Count
+- Average Salary
+- Average Bonus
+- Job Role distribution within each Department
+- Comparison of workforce structure across departments
 
-![Manager PivotTable](Images/16.png)
+For example, the **IT department** can be expanded to view its individual job roles, while other departments can be analyzed in the same way.
 
----
+This provides a hierarchical view of the organization's workforce.
 
-# 👥 18. Employee & Workforce Analysis
-
-Employee-level workforce summaries were created using PivotTables.
-
-The analysis provides a high-level view of employee counts and workforce-related metrics across different categories.
-
-![Employee Analysis](Images/18.png)
+![Department and Job Role PivotTable](Images/19.png) ![Department and Job Role PivotTable](Images/19.1.png) ![Department and Job Role PivotTable](Images/19.2.png)
 
 ---
 
-# 🕐 19. Shift PivotTable
+## 👨‍💼 2. Manager-wise PivotTable
 
-A Shift PivotTable was created to analyze employees according to their working shifts.
+A **Manager-wise PivotTable** was created to analyze employee distribution and compensation under each manager.
 
-### Shift categories:
+### Key Metrics
 
-* Morning
-* Evening
-* Night
-* General
+- Manager
+- Employee Count
+- Total Compensation
 
-### Metrics:
+This helps understand team size and the overall compensation associated with each manager.
 
-* Employee Count
-* Total Compensation
-
-![Shift PivotTable](Images/18.png)
+![Manager-wise PivotTable](Images/16.png)
 
 ---
 
-# 🏢 20. Department PivotTable
+## ⭐ 3. Performance-wise PivotTable
 
-The Department PivotTable provides a summarized view of the workforce by department.
+A **Performance-wise PivotTable** was created to analyze employees according to their performance categories.
 
-### Metrics:
+### Performance Categories
 
-* Employee Count
-* Average Salary
-* Average Bonus
-* Job Roles
+- Excellent
+- Very Good
+- Good
+- Average
+- Needs Improvement
 
-This allows departments to be compared using standardized workforce metrics.
+### Key Metrics
 
-![Department PivotTable](Images/19.png) ![Department PivotTable](Images/19.1.png) ![Department PivotTable](Images/19.2.png)
+- Employee Count
+- Average Salary
+- Average Bonus
+- Attendance
 
----
+This analysis helps compare workforce performance with salary, bonus, and attendance.
 
-# 📍 21. Location PivotTable
-
-A Location PivotTable was created to summarize employee distribution and compensation by location.
-
-### Metrics:
-
-* Location
-* State
-* Employee Count
-* Total Compensation
-
-![Location PivotTable](Images/20.png) ![Location PivotTable](Images/20.1.png) ![Location PivotTable](Images/20.2.png)
+![Performance-wise PivotTable](Images/15.png)
 
 ---
 
-# ⭐ 22. Performance PivotTable
+## 📈 4. Experience-wise PivotTable
 
-A Performance PivotTable was created to analyze employee performance categories.
+An **Experience-wise PivotTable** was created to analyze employee distribution according to years of experience.
 
-### Metrics:
+### Key Metrics
 
-* Performance
-* Employee Count
-* Average Salary
-* Average Bonus
-* Attendance
+- Experience Level
+- Employee Count
+- Total Compensation
+- Attendance
 
-This provides a summarized view of workforce performance and related HR metrics.
+This helps understand how workforce size, compensation, and attendance vary across different experience levels.
 
-![Performance PivotTable](Images/15.png)
+![Experience-wise PivotTable](Images/17.png)
+
+---
+
+## 🕐 5. Shift-wise PivotTable
+
+A **Shift-wise PivotTable** was created to analyze workforce distribution across different working shifts.
+
+### Shift Categories
+
+- Morning
+- Evening
+- Night
+- General
+
+### Key Metrics
+
+- Employee Count
+- Total Compensation
+
+This provides insight into how employees and compensation are distributed across different working shifts.
+
+![Shift-wise PivotTable](Images/18.png)
+
+---
+
+## 📍 6. Location-wise & State-wise PivotTable
+
+A combined **Location and State PivotTable** was created to analyze the geographical distribution of the workforce.
+
+The **Location** field provides the city-level view, while **State** provides the corresponding state-level classification.
+
+### Key Analysis
+
+- Location-wise Employee Count
+- State-wise Employee Count
+- Average Salary
+- Total Compensation
+- Geographic workforce distribution
+
+The PivotTable also handles **Not Available / Non-Applicable** location records by consolidating them into an appropriate category.
+
+This provides a hierarchical geographical view of the workforce.
+
+![Location and State PivotTable](Images/20.png) ![Location and State PivotTable](Images/20.2.png) [Location and State PivotTable](Images/20.1.png)
 
 ---
 
