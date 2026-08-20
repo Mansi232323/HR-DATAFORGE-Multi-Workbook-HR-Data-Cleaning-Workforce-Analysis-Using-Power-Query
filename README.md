@@ -558,7 +558,21 @@ This demonstrates that the project is not only a one-time data-cleaning exercise
 ![Refresh Query](Images/22.png)
 
 ---
+📥 Load Cleaned Data into Excel
 
+After completing all Power Query cleaning and transformation, the final master dataset was loaded into Excel for analysis.
+
+The loaded data was then used to create section-wise HR analysis covering:
+
+Manager & Experience
+Shift & Performance
+Department & Job Role
+Location & State
+
+![Refresh Query](Images/13.png)
+![Refresh Query](Images/14.png)
+
+------
 # 📈 28. Final HR Reporting Output
 
 The final output combines the cleaned master dataset with multiple workforce analyses.
