@@ -260,24 +260,31 @@ The major workforce analysis areas were:
 
 🔹 Department & Job Role
 
+![Section-Wise Analysis](./Images/6.png)
+
 🔹 Manager
 
-🔹 Experience
+![Section-Wise Analysis](./Images/9.png)
+
+🔹 Experience 
+
+![Section-Wise Analysis](./Images/7.png)
 
 🔹 Shift
 
+![Section-Wise Analysis](./Images/12.png)
+
 🔹 Performance
+
+![Section-Wise Analysis](./Images/10.png)
 
 🔹 Location & State
 
+![Section-Wise Analysis](./Images/8.png)
+
 Each section uses relevant HR metrics according to the business question being analyzed.
 
-![Section-Wise Analysis](./Images/6.png)
-![Section-Wise Analysis](./Images/7.png)
-![Section-Wise Analysis](./Images/8.png)
-![Section-Wise Analysis](./Images/9.png)
-![Section-Wise Analysis](./Images/10.png)
-![Section-Wise Analysis](./Images/12.png)
+
 
 ---
 
