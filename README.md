@@ -191,7 +191,7 @@ Where information was genuinely unavailable, values were standardized using appr
 
 This prevented unavailable information from being confused with actual business values.
 
-![Data Quality Validation](Images/6.png)
+
 
 ---
 
@@ -219,7 +219,7 @@ A Month-wise field was also created from workbook names such as:
 
 This enabled monthly workforce comparisons.
 
-![Workforce Analysis Preparation](Images/7.png)
+
 
 ---
 
