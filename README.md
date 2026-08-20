@@ -1,10 +1,3 @@
-Yes. I checked the **actual `Images` folder in your GitHub repository** and it contains the 28 image files you uploaded, including `1.png`, `2.png`, `3.png`, `5.1.png`, `5.2.png`, `15.1.png`, `19.1.png`, `19.2.png`, `20.1.png`, `20.2.png`, etc. ([GitHub][1])
-
-Below is a **complete README from scratch**, using the **same `./Images/...` image paths**, and using **symbols instead of numbered sections**.
-
-Copy everything inside the code block into your `README.md`.
-
-````markdown
 # 🏢 HR DATAFORGE — Multi-Workbook HR Data Cleaning & Workforce Analysis Using Power Query
 
 > **An end-to-end HR data cleaning, transformation, consolidation, validation, and workforce analysis project using Microsoft Excel, Power Query, and PivotTables.**
